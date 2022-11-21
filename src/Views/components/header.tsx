@@ -1,3 +1,8 @@
+/* The File name: COMP2112-F2022-Assignment2
+   Author's name: Xinyu Zhu
+   web site name: Assignment2
+   file description: the header page of the website */
+
 import React from "react";
 import logo from '../../Assets/images/favicon.jpg';
 function Header() {

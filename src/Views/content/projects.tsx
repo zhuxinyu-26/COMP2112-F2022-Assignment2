@@ -1,4 +1,10 @@
+/* The File name: COMP2112-F2022-Assignment2
+   Author's name: Xinyu Zhu
+   web site name: Assignment2
+   file description: the projects page of the website */
+
 import React from "react";
+//import pictures
 import project1 from '../../Assets/images/project1.png';
 import project2 from '../../Assets/images/project2.png';
 import project3 from '../../Assets/images/project3.png';

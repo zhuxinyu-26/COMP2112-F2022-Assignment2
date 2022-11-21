@@ -1,6 +1,12 @@
+/* The File name: COMP2112-F2022-Assignment2
+   Author's name: Xinyu Zhu
+   web site name: Assignment2
+   file description: the css page of the website */
 
+/* google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&display=swap');
 
+/* main css for the app */
  body {
   background-color: #F9F7F7;
   font-family: 'Merriweather', serif;

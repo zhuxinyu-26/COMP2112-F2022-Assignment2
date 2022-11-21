@@ -1,4 +1,8 @@
-// import exp from "constants";
+/* The File name: COMP2112-F2022-Assignment2
+   Author's name: Xinyu Zhu
+   web site name: Assignment2
+   file description: the services page of the website */
+   
 import React from "react";
 
 function Services() {

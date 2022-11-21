@@ -1,3 +1,8 @@
+/* The File name: COMP2112-F2022-Assignment2
+   Author's name: Xinyu Zhu
+   web site name: Assignment2
+   file description: the contact page of the website */
+
 import React from "react";
 
 function Contact() {
