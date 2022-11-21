@@ -1,11 +1,11 @@
 import React from "react";
-
+import logo from '../../Assets/images/favicon.jpg';
 function Header() {
   return (
     <nav className="navbar navbar-expand-lg bg-light fixed-top">
       <div className="container-fluid">
-        <a className="navbar-brand" href="/home.html">
-          Assignment2
+        <a className="navbar-brand" href="/home">
+          <img src={logo} alt="logo" />
         </a>
         <button
           className="navbar-toggler"
@@ -21,10 +21,10 @@ function Header() {
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav">
             <a
-              className="nav-link active"
+              className="nav-link"
               id="homePage"
               aria-current="page"
-              href="/home.html"
+              href="/home"
             >
               Home
             </a>
@@ -32,7 +32,7 @@ function Header() {
               className="nav-link"
               id="aboutPage"
               aria-current="page"
-              href="/about.html"
+              href="/about"
             >
               About Me
             </a>
@@ -40,7 +40,7 @@ function Header() {
               className="nav-link"
               id="projectsPage"
               aria-current="page"
-              href="/projects.html"
+              href="/projects"
             >
               Projects
             </a>
@@ -48,7 +48,7 @@ function Header() {
               className="nav-link"
               id="servicePage"
               aria-current="page"
-              href="/services.html"
+              href="/services"
             >
               Services
             </a>
@@ -56,7 +56,7 @@ function Header() {
               className="nav-link"
               id="contactePage"
               aria-current="page"
-              href="/contact.html"
+              href="/contact"
             >
               Contact Me
             </a>
