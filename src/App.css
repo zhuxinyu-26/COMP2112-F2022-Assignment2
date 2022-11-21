@@ -1,4 +1,4 @@
-body {
+/* body {
   background-color: #F9F7F7;
   font-family: 'Merriweather', serif;
   margin: 0;
@@ -111,12 +111,10 @@ margin:10px auto 50px auto;
 }
 
 .skill-desc-1 {
-  /* clear: left; */
   line-height: 2;
 }
 
 .skill-desc-2 {
-  /* clear: right; */
   line-height: 2;
 }
 
@@ -226,4 +224,5 @@ hr {
     width: 75vh;
     align-self: center;
     margin: 20px auto 20px auto;
-  }
+  } 
+  */
